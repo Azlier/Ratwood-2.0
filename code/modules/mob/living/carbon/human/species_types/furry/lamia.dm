@@ -47,7 +47,7 @@
 		OFFSET_SHIRT_F = list(0,0), OFFSET_ARMOR_F = list(0,0), OFFSET_UNDIES_F = list(0,-1), \
 		OFFSET_BREASTS_F = list(0,-1), \
 		)
-	inherent_traits = list(TRAIT_LONGSTRIDER, TRAIT_VENOMOUS, TRAIT_LAMIAN_TAIL, TRAIT_CALTROPIMMUNE)
+	inherent_traits = list(TRAIT_LONGSTRIDER, TRAIT_VENOMOUS, TRAIT_LAMIAN_TAIL, TRAIT_CALTROPIMMUNE, TRAIT_WATERBREATHING, TRAIT_SEA_DRINKER)
 	race_bonus = list(STAT_STRENGTH = 1, STAT_SPEED = -1)
 	enflamed_icon = "widefire"
 /* I have no idea how rendering works and I can't figure it out!!
